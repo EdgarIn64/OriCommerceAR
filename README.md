@@ -4,7 +4,7 @@
 - Juárez Huerta David de Jesús
 - Luna Toledo Cristina
 - Merino Pérez David
-- Pérez Sänchez Diana Alejandra
+- Pérez Sánchez Diana Alejandra
 
 ####Descripción
 OriCommerce es una App Móvil
